@@ -3,7 +3,7 @@
 
 <h1>SvelteKit Snapshots</h1>
 <div class="center">
-	<form>
+	<form method="POST">
 		<div class="split-input">
 			<div class="form-control">
 				<label for="firstName">First Name</label>
